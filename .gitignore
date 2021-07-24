@@ -1,0 +1,8 @@
+#Ignore binaries
+*.exe
+*.ilk
+*.obj
+*.pdb
+
+#Ignore build instructions
+.vscode
